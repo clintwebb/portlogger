@@ -1,0 +1,6 @@
+This port logging tool is designed to listen on a particular port, and when it gets a connection, it establishes a connection to 
+another specified host and port.   Any data received from one port will be forwarded on to the other.
+
+Additionally it will log the details of the traffic being sent, which can go to the console, or to a file.
+
+
