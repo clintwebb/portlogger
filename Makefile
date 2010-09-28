@@ -9,7 +9,7 @@ DEBUG_LIBS=
 
 ARGS=-Wall -O2 -g $(DEBUG_LIBS)
 OBJS=
-LIBS=
+LIBS=-levent
 
 
 
